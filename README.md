@@ -162,3 +162,5 @@ Note (new) : There were some updates in the codes which is updated in the newer 
 <a name="CONTRIBUTORS"></a>
 # Contributors
 > Prince Mann
+> Praveen Kumar
+> Prithvi Singh Dangas
